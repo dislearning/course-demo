@@ -1,0 +1,21 @@
+{
+  "slug": "how-to-make-a-course",
+  "title": "How to make a course",
+  "repository": "https://github.com/trigoporres/disCourses.git",
+  "level": "initial",
+  "categories": [
+    "DisLearning"
+  ],
+  "tags": [],
+  "image": "image.jpg",
+  "imageCredits": "Photo by [Jeremy Perkins](https://unsplash.com/@jeremyperkins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/black?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)",
+  "stars": 0,
+  "toc": [
+    {
+      "slug": "markdown",
+      "title": "Markdown",
+      "path": "units/markdown.md",
+      "type": "doc"
+    }
+  ]
+}
